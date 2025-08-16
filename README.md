@@ -73,7 +73,7 @@ You can delete it anytime — the app will create a new database automatically.
 
 ## 📸 Screenshots
 
-![Expense Tracker Screenshot](screenshots/expense_tracker_screenshot.png)
+![Expense Tracker Screenshot](expense_tracker_screenshot.png)
 
 ---
 
@@ -96,4 +96,5 @@ Feel free to fork this repo and play around with:
 ## 📜 License
 
 This project is **free to use** for learning purposes.
+
 
